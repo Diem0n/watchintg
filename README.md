@@ -3,16 +3,11 @@
 ### Project UI
 
 #### Dynamic Progress Ring
+<img src="https://github.com/diem0n/watchintg/blob/main/assets/images/ring-green.jpg?raw=true" alt="Ring Green" height="300" >
+<img src="https://github.com/diem0n/watchintg/blob/main/assets/images/ring-yellow.jpg?raw=true" alt="Ring Yellow" height="300" >
+<img src="https://github.com/diem0n/watchintg/blob/main/assets/images/ring-red.jpg?raw=true" alt="Ring Red" height="300">
 
-![Ring Green](https://github.com/diem0n/watchintg/blob/main/assets/images/ring-green.jpg?raw=true)
-
-![Ring Yellow](https://github.com/diem0n/watchintg/blob/main/assets/images/ring-yellow.jpg?raw=true)
-
-![Ring Red](https://github.com/diem0n/watchintg/blob/main/assets/images/ring-red.jpg?raw=true)
-
-![Metrics](https://github.com/diem0n/watchintg/blob/main/assets/images/metrics.jpg?raw=true)
-
-
+<img src="https://github.com/diem0n/watchintg/blob/main/assets/images/metrics.jpg?raw=true" alt="Metrics" height="400" >
 
 
 -----------------------------------------
