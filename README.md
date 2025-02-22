@@ -1,5 +1,23 @@
 # Connect Expo Managed App with HealthConnect
 
+### Project UI
+
+#### Dynamic Progress Ring
+
+![Ring Green](https://github.com/diem0n/watchintg/blob/main/assets/images/ring-green.jpg?raw=true)
+
+![Ring Yellow](https://github.com/diem0n/watchintg/blob/main/assets/images/ring-yellow.jpg?raw=true)
+
+![Ring Red](https://github.com/diem0n/watchintg/blob/main/assets/images/ring-red.jpg?raw=true)
+
+![Metrics](https://github.com/diem0n/watchintg/blob/main/assets/images/metrics.jpg?raw=true)
+
+
+
+
+-----------------------------------------
+## Setup 
+
 1. First install the following packages:
 
     ```cmd
